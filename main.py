@@ -16,6 +16,6 @@ from unittest import main
 # print(sq.get_diagonal())
 # print(sq, rect)
 
-print(rect.get_amount_inside(sq))
+# print(rect.get_amount_inside(sq))
 # Run unit tests automatically
 main(module='test_module', exit=False)
